@@ -1,0 +1,12 @@
+A
+false
+not false
+not (A and B)
+(A and B) and C
+(A and B) or C
+true or (A and B)
+(A and B) implies (C or D)
+(A implies B) and C
+not (A and B) or (C implies not D)
+(A and (B or C)) implies (D and E)
+not true or (A and B) implies false
